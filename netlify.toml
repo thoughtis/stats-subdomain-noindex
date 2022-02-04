@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "/"
+  status = 410
+  force = true
